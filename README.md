@@ -8,3 +8,18 @@ Contains code for project
 # Members
 - Brandon Chua Shaojie
 - Ron Kow Kheng Hui
+
+# Code
+We experimented using these algorithms
+- Logistic Regression
+- Naive Bayes (Bernoulli)
+- Naive Bayes (Multinomial)
+- K Nearest Neighbors
+- Support Vector Machine (Linear)
+- Decision Tree
+- Random Forest
+- AdaBoost
+- Gradient Tree Boosting (scikit-learn & XGBoost)
+
+# Results
+As of 29th November 2020, we achieved a score of 79.5% on Kaggle.
