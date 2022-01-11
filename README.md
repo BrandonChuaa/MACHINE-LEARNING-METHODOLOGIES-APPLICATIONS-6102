@@ -10,7 +10,7 @@ Contains code for project
 - Ron Kow Kheng Hui
 
 # Code
-We experimented using these algorithms
+We experimented using these algorithms:
 - Logistic Regression
 - Naive Bayes (Bernoulli)
 - Naive Bayes (Multinomial)
